@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 96" role="img" aria-label="金地集团 Logo">
+  <rect width="260" height="96" rx="20" fill="#ffffff"/>
+  <path d="M34 28h45v40H34z" fill="#c79b42"/>
+  <path d="M44 38h25v20H44z" fill="#ffffff"/>
+  <text x="96" y="44" font-size="28" font-weight="800" fill="#16233a" font-family="Microsoft YaHei, Arial">金地集团</text>
+  <text x="98" y="68" font-size="14" font-weight="700" fill="#c79b42" font-family="Arial">GEMDALE</text>
+</svg>

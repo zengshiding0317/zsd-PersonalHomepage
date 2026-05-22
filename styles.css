@@ -683,8 +683,12 @@ ul {
 }
 
 .subsection-title p {
-  max-width: 580px;
+  max-width: 760px;
   margin-bottom: 0;
+}
+
+#projects .project-showcase:last-of-type .subsection-title p {
+  white-space: nowrap;
 }
 
 .project-gallery,
@@ -703,7 +707,7 @@ ul {
 }
 
 .capability-grid {
-  grid-template-columns: repeat(6, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .gallery-card,
@@ -1164,6 +1168,10 @@ ul {
 
   .subsection-title {
     display: block;
+  }
+
+  #projects .project-showcase:last-of-type .subsection-title p {
+    white-space: normal;
   }
 
   .project-gallery,
